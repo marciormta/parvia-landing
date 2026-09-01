@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parvia.com.br/sitemap.xml

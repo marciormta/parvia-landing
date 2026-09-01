@@ -1,0 +1,14 @@
+{
+  "name": "Parvia — Auditoria de seguro auto",
+  "short_name": "Parvia",
+  "description": "Auditoria gratuita da apólice do seu carro pelo WhatsApp.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F7F1E4",
+  "theme_color": "#0E2436",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
